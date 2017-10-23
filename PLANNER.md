@@ -1,6 +1,5 @@
 # Planner with dates and times ish.
 ## 2017 Oct 22
-* Duck tractor front and back
 * Start gnucash ledger for 2017 flock
 ## 2017 Oct 23
 * Get corrugated aluminum details, OR order aluminum coil from Lowes
